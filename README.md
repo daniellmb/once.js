@@ -17,6 +17,8 @@ This repository was scaffolded with [generator-microjs](https://github.com/danie
 
 ## Examples
 
+### JavaScript
+
 ```JavaScript
 var canOnlyRunOnce = once(function() {
 	console.log('That Happened!');
@@ -24,6 +26,8 @@ var canOnlyRunOnce = once(function() {
 canOnlyRunOnce(); // 'That Happened!'
 canOnlyRunOnce(); // *cricket cricket*
 ```
+
+### CoffeeScript
 
 ```CoffeeScript
 canOnlyRunOnce = once(->
