@@ -1,0 +1,69 @@
+{
+  "name": "once.js",
+  "version": "0.0.1",
+  "description": "Once.js is a 0.1kb micro-library that enables you to enforce a function can only be executed once. Once.js completely dependency-free and written in both CoffeeScript and JavaScript for AMD, Node.js and the Web.",
+  "author": {
+    "name": "Daniel Lamb",
+    "email": "dlamb.open.source@gmail.com",
+    "url": "https://github.com/daniellmb"
+  },
+  "homepage": "https://github.com/daniellmb/once.js",
+  "bugs": {
+    "url": "https://github.com/daniellmb/once.js/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://daniellmb.mit-license.org"
+    }
+  ],
+  "maintainers": [],
+  "contributors": [],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/daniellmb/once.js.git"
+  },
+  "main": "once.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "keywords": [
+    "called",
+    "once",
+    "function",
+    "one",
+    "single",
+    "coffeescript",
+    "javascript",
+    "amd",
+    "node",
+    "web",
+    "call",
+    "micro",
+    "framework",
+    "library"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-jshint": "*",
+    "gulp-complexity": "*",
+    "gulp-rename": "*",
+    "gulp-replace": "*",
+    "gulp-uglify": "*",
+    "gulp-coffee": "*",
+    "gulp-karma": "*",
+    "mocha": "*",
+    "karma-mocha": "*",
+    "karma-chai": "*",
+    "karma-sinon": "*",
+    "coffee-script": "*",
+    "karma-coffee-preprocessor": "*",
+    "karma-coverage": "*",
+    "karma-phantomjs-launcher": "*"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
