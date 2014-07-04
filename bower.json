@@ -2,10 +2,12 @@
   "name": "once.js",
   "version": "0.0.2",
   "ignore": [
+    "./test",
     ".editorconfig",
     ".gitattributes",
     ".gitignore",
     ".jshintrc",
+    ".npmignore",
     ".travis.yml",
     ".umd",
     ".gulpfile",
