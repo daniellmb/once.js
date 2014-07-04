@@ -1,8 +1,16 @@
 {
   "name": "once.js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "ignore": [
-
+    ".editorconfig",
+    ".gitattributes",
+    ".gitignore",
+    ".jshintrc",
+    ".travis.yml",
+    ".umd",
+    ".gulpfile",
+    ".npm-shrinkwrap.json",
+    ".package.json"
   ],
   "dependencies": {
 
