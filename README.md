@@ -82,7 +82,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 [build-image]: http://img.shields.io/travis/daniellmb/once.js.png
 
 [gpa-url]: https://codeclimate.com/github/daniellmb/once.js
-[gpa-image]: http://img.shields.io/codeclimate/github/daniellmb/once.js.png
+[gpa-image]: https://codeclimate.com/github/daniellmb/once.js.png
 
 [coverage-url]: https://codeclimate.com/github/daniellmb/once.js/code?sort=covered_percent&sort_direction=desc
 [coverage-image]: http://img.shields.io/codeclimate/coverage/github/daniellmb/once.js.png
