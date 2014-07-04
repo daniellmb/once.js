@@ -84,7 +84,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 [coverage-image]: http://img.shields.io/codeclimate/coverage/github/daniellmb/once.js.png
 
 [depstat-url]: https://david-dm.org/daniellmb/once.js
-[depstat-image]: https://david-dm.org/daniellmb/once.js.png?theme=shields.io
+[depstat-image]: https://david-dm.org/daniellmb/once.js/dev-status.png?theme=shields.io
 
 [issues-url]: https://github.com/daniellmb/once.js/issues
 [issues-image]: http://img.shields.io/github/issues/daniellmb/once.js.png
@@ -99,7 +99,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 [npm-image]: https://badge.fury.io/js/once.js.png
 
 [irc-url]: http://webchat.freenode.net/?channels=once.js
-[irc-image]: http://img.shields.io/badge/irc-%23microseed-brightgreen.png
+[irc-image]: http://img.shields.io/badge/irc-%23once.js-brightgreen.png
 
 [gitter-url]: https://gitter.im/daniellmb/once.js
 [gitter-image]: http://img.shields.io/badge/gitter-daniellmb/once.js-brightgreen.png
