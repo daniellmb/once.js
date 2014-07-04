@@ -85,7 +85,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 [gpa-image]: https://codeclimate.com/github/daniellmb/once.js.png
 
 [coverage-url]: https://codeclimate.com/github/daniellmb/once.js/code?sort=covered_percent&sort_direction=desc
-[coverage-image]: http://img.shields.io/codeclimate/coverage/github/daniellmb/once.js.png
+[coverage-image]: https://codeclimate.com/github/daniellmb/once.js/coverage.png
 
 [depstat-url]: https://david-dm.org/daniellmb/once.js
 [depstat-image]: https://david-dm.org/daniellmb/once.js/dev-status.png?theme=shields.io
