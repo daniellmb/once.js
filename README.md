@@ -21,16 +21,16 @@ This repository was scaffolded with [generator-microjs](https://github.com/danie
 var canOnlyRunOnce = once(function() {
 	console.log('That Happened!');
 });
-canOnlyFireOnce(); // 'That Happened!'
-canOnlyFireOnce(); // *cricket cricket*
+canOnlyRunOnce(); // 'That Happened!'
+canOnlyRunOnce(); // *cricket cricket*
 ```
 
 ```CoffeeScript
 canOnlyRunOnce = once(->
   console.log 'That Happened!'
 )
-canOnlyFireOnce() # 'That Happened!'
-canOnlyFireOnce() # *cricket cricket*
+canOnlyRunOnce() # 'That Happened!'
+canOnlyRunOnce() # *cricket cricket*
 ```
 
 ## Install Choices
