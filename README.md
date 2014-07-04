@@ -13,7 +13,7 @@
 
 Once.js is a 0.1kb micro-library that enables you to enforce a function can only be executed once. Once.js completely dependency-free and written in both CoffeeScript and JavaScript for AMD, Node.js and the Web.
 
-This repository was scaffolded with [generator-microjs](https://github.com/daniellmb/generator-microjs) v0.0.10.
+This repository was scaffolded with [generator-microjs](https://github.com/daniellmb/generator-microjs).
 
 ## Examples
 
