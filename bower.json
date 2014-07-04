@@ -1,8 +1,8 @@
 {
   "name": "once.js",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "ignore": [
-    "./test",
+    "test",
     ".editorconfig",
     ".gitattributes",
     ".gitignore",
@@ -10,9 +10,9 @@
     ".npmignore",
     ".travis.yml",
     ".umd",
-    ".gulpfile",
-    ".npm-shrinkwrap.json",
-    ".package.json"
+    "gulpfile.js",
+    "npm-shrinkwrap.json",
+    "package.json"
   ],
   "dependencies": {
 

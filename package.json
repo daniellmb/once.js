@@ -1,6 +1,6 @@
 {
   "name": "once.js",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Once.js is a 0.1kb micro-library that enables you to enforce a function can only be executed once. Once.js completely dependency-free and written in both CoffeeScript and JavaScript for AMD, Node.js and the Web.",
   "author": {
     "name": "Daniel Lamb",
